@@ -48,7 +48,7 @@
       <div class="row">
         <div class="col-lg-5 col-xl-6 text-center text-lg-right">
             <h2 class="text-white mb-4" >
-              <span class="display-4 font-weight-light"> Better Education Better Life</span>
+              <span class="display-4 font-weight-light"> Better Education Mean Better Life</span>
               <span class="d-block">هدف اساسی ما <strong class="font-weight-light">پیشرفت است </strong></span>
             </h2>
             <p class="lead text-white">هدف اساسی ما این پیشرفت در عرصه تعلیم و تربیه اطفال و بزرگسالان این جامعه می باشد</p>
