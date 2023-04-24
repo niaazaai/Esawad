@@ -328,7 +328,7 @@
         <div class="row align-items-center justify-content-md-between py-4 mt-4 delimiter-top ">
           <div class="col-md-6">
             <div class="copyright text-sm font-weight-bold text-center text-md-left">
-              © 2021 <a href="https://esawad.com" class="font-weight-bold" target="_blank">Esawad</a>. All rights reserved.
+              © 2023 <a href="https://esawad.com" class="font-weight-bold" target="_blank">Esawad</a>. All rights reserved.
             </div>
           </div>
           <div class="col-md-6">

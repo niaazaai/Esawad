@@ -58,7 +58,7 @@
                         </div>
                       </div>
                     
-                      <div class= "py-3 pl-3 border" style = "border-radius:4px;">
+                      <!-- <div class= "py-3 pl-3 border" style = "border-radius:4px;">
                         <div class="custom-control custom-radio custom-control-inline">
                           <input type="radio" id="1" name="who" value = "Student"class="custom-control-input active"  >
                           <label class="custom-control-label" for="1">I am student</label>
@@ -68,7 +68,7 @@
                             <input type="radio" id="2" name="who" value = "Teacher" class="custom-control-input" >
                             <label class="custom-control-label" for="2">I am teacher</label>
                         </div>
-                      </div>
+                      </div> -->
 
 
 
